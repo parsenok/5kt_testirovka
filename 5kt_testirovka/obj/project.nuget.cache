@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "WSRbeIF5LJsP/mxKz6dYS4B37EO79L5eUT+hjAfZ6lCi/XcjulRHJRP41mFn4Yo1Y/I/r8dRs6BzFBrEWOqJIA==",
+  "success": true,
+  "projectFilePath": "E:\\testirovka_kt\\5kt_testirovka\\5kt_testirovka\\5kt_testirovka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siman\\.nuget\\packages\\allure.commons\\3.5.0.73\\allure.commons.3.5.0.73.nupkg.sha512",
+    "C:\\Users\\siman\\.nuget\\packages\\aspectinjector\\2.6.0\\aspectinjector.2.6.0.nupkg.sha512",
+    "C:\\Users\\siman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\siman\\.nuget\\packages\\mimetypesmap\\1.0.8\\mimetypesmap.1.0.8.nupkg.sha512",
+    "C:\\Users\\siman\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\siman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\siman\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\siman\\.nuget\\packages\\nunit.allure\\1.2.1.1\\nunit.allure.1.2.1.1.nupkg.sha512",
+    "C:\\Users\\siman\\.nuget\\packages\\nunitlite\\3.14.0\\nunitlite.3.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

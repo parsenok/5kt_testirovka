@@ -1,0 +1,168 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "5kt_testirovka/1.0.0": {
+        "dependencies": {
+          "Allure.Commons": "3.5.0.73",
+          "NUnit.Allure": "1.2.1.1",
+          "NUnitLite": "3.14.0"
+        },
+        "runtime": {
+          "5kt_testirovka.dll": {}
+        }
+      },
+      "Allure.Commons/3.5.0.73": {
+        "dependencies": {
+          "MimeTypesMap": "1.0.8",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Allure.Commons.dll": {
+            "assemblyVersion": "3.5.0.73",
+            "fileVersion": "3.5.0.73"
+          }
+        }
+      },
+      "AspectInjector/2.6.0": {
+        "runtime": {
+          "lib/netstandard2.0/AspectInjector.Broker.dll": {
+            "assemblyVersion": "2.6.0.0",
+            "fileVersion": "2.6.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "MimeTypesMap/1.0.8": {
+        "runtime": {
+          "lib/netstandard2.0/MimeTypesMap.dll": {
+            "assemblyVersion": "1.0.8.0",
+            "fileVersion": "1.0.8.0"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "NUnit/3.14.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/nunit.framework.dll": {
+            "assemblyVersion": "3.14.0.0",
+            "fileVersion": "3.14.0.0"
+          }
+        }
+      },
+      "NUnit.Allure/1.2.1.1": {
+        "dependencies": {
+          "Allure.Commons": "3.5.0.73",
+          "AspectInjector": "2.6.0",
+          "NUnit": "3.14.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NUnit.Allure.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "NUnitLite/3.14.0": {
+        "dependencies": {
+          "NUnit": "3.14.0"
+        },
+        "runtime": {
+          "lib/net6.0/nunitlite.dll": {
+            "assemblyVersion": "3.14.0.0",
+            "fileVersion": "3.14.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5kt_testirovka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Allure.Commons/3.5.0.73": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cqMlst9Za1TfOsgN2fWzMkdUeOTy07AZHaudOuRVAjTyBmUxDKOKxCwlkxO1Xw91ogsPCdXIJdduUtFFGw+Thw==",
+      "path": "allure.commons/3.5.0.73",
+      "hashPath": "allure.commons.3.5.0.73.nupkg.sha512"
+    },
+    "AspectInjector/2.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VTd4JwPJBdO+g0GFY9xPtsB63/iCs9WCCZkcw2KJ+4gCP3N1LQ99bsfuQhFfrdZOYxJ8I5HBPyojqGVJyKzuOA==",
+      "path": "aspectinjector/2.6.0",
+      "hashPath": "aspectinjector.2.6.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "MimeTypesMap/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iOm6Zar+yVROhlyrGGSJTfThvNoHLUeYeQQND9YD/ot/nA2qsWUp9kP2MHTdF9P7I8afW6eCf8vdELLZjDFdSQ==",
+      "path": "mimetypesmap/1.0.8",
+      "hashPath": "mimetypesmap.1.0.8.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "path": "netstandard.library/2.0.0",
+      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "NUnit/3.14.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R7iPwD7kbOaP3o2zldWJbWeMQAvDKD0uld27QvA3PAALl1unl7x0v2J7eGiJOYjimV/BuGT4VJmr45RjS7z4LA==",
+      "path": "nunit/3.14.0",
+      "hashPath": "nunit.3.14.0.nupkg.sha512"
+    },
+    "NUnit.Allure/1.2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Bb6hpYRrJFnWh3CePRY63E7D75eOG9waEYePUE+iMaRLq5mtRmYZKg4qUG0492AnoFjOnTRFpMlE1ucvgbk2PQ==",
+      "path": "nunit.allure/1.2.1.1",
+      "hashPath": "nunit.allure.1.2.1.1.nupkg.sha512"
+    },
+    "NUnitLite/3.14.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DLiOwZ4R2IsB4G3rxcBE/pCFoE9nVuT7L0NUe7J9xxWka3rh4eK8DWZeepfacy/3HTwYDXiIMiMUYSspSbA6lA==",
+      "path": "nunitlite/3.14.0",
+      "hashPath": "nunitlite.3.14.0.nupkg.sha512"
+    }
+  }
+}
